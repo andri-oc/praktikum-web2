@@ -1,5 +1,9 @@
 # CRUD sederhana dengan PHP + MySQLI
 
+
+<img src="./img/dashboard.png">
+<br> <br><br><br>
+
 ## Deskripsi : <br>
 
 Website CRUD Penginputan data Mahasiswa, User, dan Matakuliah adalah sebuah aplikasi web sederhana yang memungkinkan pengguna untuk mengelola data mahasiswa, data user, dan data matakuliah. Dibangun menggunakan PHP sebagai bahasa pemrograman utama, MySQL sebagai basis data, Bootstrap, JavaScript, dan CSS untuk tampilan dan interaksi yang responsif.
@@ -13,15 +17,3 @@ Penginputan Data Matakuliah: Pengguna dapat mengelola data matakuliah, termasuk 
 
 Website ini menggunakan tampilan responsif yang dibangun dengan menggunakan Bootstrap, sehingga dapat diakses dengan baik di perangkat desktop maupun perangkat mobile. Interaksi pengguna yang ditingkatkan dengan penggunaan JavaScript dan CSS, memungkinkan antarmuka pengguna yang menarik dan mudah digunakan.
 
-## Struktur Folder
-
-
-├── Folder 1
-│   ├── Subfolder 1.1
-│   └── Subfolder 1.2
-├── Folder 2
-└── Folder 3
-    ├── Subfolder 3.1
-    ├── Subfolder 3.2
-    └── Subfolder 3.3
-``

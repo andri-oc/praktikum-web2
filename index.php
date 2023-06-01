@@ -8,7 +8,7 @@ if (isset($_GET['page'])) {
             include 'home.php';
             break;
 
-        case "profil":
+        case "profile":
             include 'profile.php';
             break;
 
